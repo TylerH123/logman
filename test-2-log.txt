@@ -1,0 +1,9 @@
+08:06:18:30:00|UI|Format test on user input failed (CID #34154)
+07:08:23:18:12|DB Mgr|Sending response to UI failed. 
+12:15:08:18:59|XDDD|unga bunga
+07:08:23:18:12|DB Mgr|Sending response to UI failed. 
+12:15:08:18:59|XDDDD|asfjpa
+12:15:08:18:59|XDD|ooga booga
+04:12:22:15:00|Wharrgarbl|#$@!ui)SFHJHADSFD
+12:15:08:18:59|TCP|Running test on incoming packet from client (CID #34154)
+12:15:08:18:59|XD|testing testing

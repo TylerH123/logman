@@ -1,0 +1,19 @@
+# cmd test 4
+a 12
+a 2
+p
+c 4
+g
+c Dra'nakyuek
+g
+c Dra'
+m 00:00:00:00:00
+r
+p
+s
+p
+k worlds
+g
+k destroyer of 
+k yesterday
+q
